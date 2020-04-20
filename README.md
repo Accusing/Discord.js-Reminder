@@ -1,6 +1,10 @@
 # Discord.js-Reminder Infomration 
 
-This is a basic commend command I made, it pretty much allows the other users with the permession of MANAGE_MESSAGES to commend other users, which then gets logged in the bot-logs channel which is required for it to work. The max amount of commends for a user is 100!
+This is a basic reminder command I made, which pretty much reminds you after a certain amount of time you fix it. In order to use this command properly you have to do the following;
+**[PREFIX]reminder (TIME)(M-S-H)**
+M - Minute
+S - Second
+H - Hour
 
 # Contact Me!
  If you have any questions/suggestions or any problems with my work, feel free to contact me via email or message me on discord!
@@ -10,6 +14,4 @@ This is a basic commend command I made, it pretty much allows the other users wi
 # Dependencies 
 discord.js 
 ms  
-fs 
-commend.json 
 discord.js-commando
