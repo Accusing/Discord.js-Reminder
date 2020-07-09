@@ -15,7 +15,7 @@ H - Hour
 
  Discord: *Neoptunium#1111*
 
- Email: *hypnoticnoah@gmail.com*
+ Email: *neoptunium@gmail.com*
 
 # Dependencies 
 
